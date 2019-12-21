@@ -2,9 +2,11 @@
 
 ## Projeyi Çalıştırmak İçin
 
-```terminal
-git clone https://github.com/furkantolgayuce/django_learn.git && cd django_learn && python3 manage.py runserver
+```Terminal
+git clone https://github.com/acikveriturkiye/acik_veri_turkiye_platformu.git && cd django_learn && python3 manage.py runserver
 ```
+
+
 
 ## Yetkili Kullanıcı
 
