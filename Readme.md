@@ -3,7 +3,7 @@
 ## Projeyi Çalıştırmak İçin
 
 ```Terminal
-git clone https://github.com/acikveriturkiye/acik_veri_turkiye_platformu.git && cd django_learn && python3 manage.py runserver
+git clone https://github.com/acikveriturkiye/acik_veri_turkiye_platformu.git && cd acik_veri_turkiye_platformu && python3 manage.py runserver
 ```
 
 
