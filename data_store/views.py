@@ -10,7 +10,7 @@ def index(request):
 	keyword = request.GET.get("keyword")
 
 	if keyword:
-		all_data = DataStore.objects.filter(title__contains = keyword)
+		all_data = DataStore.objects.filter(title__icontains = keyword)
 		paginator = Paginator(all_data, 5) # Show x contacts per page
 
 		page = request.GET.get('page')
